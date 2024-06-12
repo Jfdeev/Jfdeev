@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Jfdeev/1fc1f9140e2aea2a75f6698a6cf06837/raw/0f9fc9231d7b1f6a588502a730f62bb27c2c718f/githubcard2.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Felipe</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+
 
 
 - 🔭 I’m currently studying in Cesupa - Centro Universitário do Pará
