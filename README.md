@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying in Cesupa - Centro Universitário do Pará
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C, Typescript, React, Tailwind, Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, C++, Typescript, React, React Native, C#, Tailwind, Java**
 
 
 
